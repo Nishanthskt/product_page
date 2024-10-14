@@ -1,0 +1,78 @@
+[
+    {
+      "id": 1,
+      "name": "Moto Rola",
+      "price": 29.99,
+      "description": "128 storage, 16gb ram curved display",
+      "image": "/images/product1.png"
+    },
+    {
+      "id": 2,
+      "name": "IQ 200",
+      "price": 49.99,
+      "description": "512 storage, 16gb ram curved display",
+      "image": "/images/product2.png"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 19.99,
+      "description": "This is the description for product 3.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "price": 39.99,
+      "description": "This is the description for product 4.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "price": 59.99,
+      "description": "This is the description for product 5.",
+      "image": "https://via.placeholder.com/150"
+    }
+    ,
+    {
+      "id": 6,
+      "name": "Product 6",
+      "price": 59.99,
+      "description": "This is the description for product 6.",
+      "image": "https://via.placeholder.com/150"
+    }
+    ,
+    {
+      "id": 7,
+      "name": "Product 7",
+      "price": 59.99,
+      "description": "This is the description for product 7.",
+      "image": "https://via.placeholder.com/150"
+    }
+    ,
+    {
+      "id": 8,
+      "name": "Product 8",
+      "price": 59.99,
+      "description": "This is the description for product 8.",
+      "image": "https://via.placeholder.com/150"
+    }
+    ,
+    {
+      "id": 9,
+      "name": "Product 9",
+      "price": 59.99,
+      "description": "This is the description for product 9.",
+      "image": "https://via.placeholder.com/150"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Product 10",
+      "price": 59.99,
+      "description": "This is the description for product 10.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  
